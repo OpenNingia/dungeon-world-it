@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.4.2">
+    <DOCUMENT ANZPAGES="1" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Abel Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="sRGB IEC61966-2.1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="Italian" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="1.245" dispY="1.245" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <COLOR NAME="Black" CMYK="#000000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Blue" RGB="#0000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000" Spot="0" Register="0"/>
+        <COLOR NAME="Green" RGB="#00ff00" Spot="0" Register="0"/>
+        <COLOR NAME="Grigio" RGB="#c8c8c8" Spot="0" Register="0"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Red" RGB="#ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff" Spot="0" Register="0"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff" Spot="0" Register="0"/>
+        <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
+        <COLOR NAME="undef" RGB="#966432" Spot="0" Register="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="3" LINESPMode="1" LINESP="9" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="DejaVu Serif Condensed" FONTSIZE="9"/>
+        <STYLE NAME="Intestazioni1" ALIGN="1" FONT="DejaVu Serif Condensed Bold" FONTSIZE="11"/>
+        <STYLE NAME="Flavor" FONT="DejaVu Serif Condensed Italic" FONTSIZE="8"/>
+        <STYLE NAME="Lista" ALIGN="3" INDENT="17.007874015748" FIRST="-17.007874015748">
+            <Tabs Type="0" Pos="17.007874015748" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Caratteristiche" NACH="1" FONT="DejaVu Serif Condensed Bold" FONTSIZE="10">
+            <Tabs Type="0" Pos="70.8661417322835" Fill=""/>
+            <Tabs Type="0" Pos="141.732283464567" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Relazioni" PARENT="Default Paragraph Style" LINESPMode="0" LINESP="10" NACH="3"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="DejaVu Serif Book" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Italian"/>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Sfondo" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="1" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="1" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="2.05238979908627e-316" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <LPI Color="" Frequency="0" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="0" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="0" NAM="Normale" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="595.28125984252" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="0" NAM="" MNAM="Normale" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="282.602 310.421 " HorizontalGuides="754.016 56.6929 213.081 305.563 649.924 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="128.847086614173" YPOS="77.1941732283465" WIDTH="537.588346456693" HEIGHT="155.388533538571" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Grigio" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="40" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 537.588 0 537.588 0 537.588 0 537.588 0 537.588 155.389 537.588 155.389 537.588 155.389 537.588 155.389 0 155.389 0 155.389 0 155.389 0 155.389 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 537.588 0 537.588 0 537.588 0 537.588 0 537.588 155.389 537.588 155.389 537.588 155.389 537.588 155.389 0 155.389 0 155.389 0 155.389 0 155.389 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="572.24339960601" YPOS="79.4229146290927" WIDTH="94.692033464857" HEIGHT="153.659345213427" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.215209166965584" LOCALSCY="0.215209166965584" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="IlPaladino.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 94.692 0 94.692 0 94.692 0 94.692 0 94.692 153.659 94.692 153.659 94.692 153.659 94.692 153.659 0 153.659 0 153.659 0 153.659 0 153.659 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 94.692 0 94.692 0 94.692 0 94.692 0 94.692 153.659 94.692 153.659 94.692 153.659 94.692 153.659 0 153.659 0 153.659 0 153.659 0 153.659 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <ImageEffect Code="8" Param="Black&#10;Grigio&#10;100 100 2 0 0 1 1 0 2 0 0 1 1 0"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347086614173" YPOS="76.6941732283465" WIDTH="282.074543307087" HEIGHT="156.388533538571" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="5.66929133858268" TEXTRA="5.66929133858268" BEXTRA="5.66929133858268" REXTRA="5.66929133858268" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 282.075 0 282.075 0 282.075 0 282.075 0 282.075 156.389 282.075 156.389 282.075 156.389 282.075 156.389 0 156.389 0 156.389 0 156.389 0 156.389 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 282.075 0 282.075 0 282.075 0 282.075 0 282.075 156.389 282.075 156.389 282.075 156.389 282.075 156.389 0 156.389 0 156.389 0 156.389 0 156.389 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="8" CH="L'inferno aspetta. Una eternità di tormento nel fuoco o ghiaccio o qualsiasi altra cosa meglio si adatti ai peccati dei dannati di Dungeon World. Tutto quello che si erge fra le fosse di quella tortura e la salvezza sei tu."/>
+            <para PARENT="Flavor"/>
+            <ITEXT FONTSIZE="8" CH="Uomo santo, macchina armata da guerra, templare della Luce e della Vita, giusto? Il chierico potrà dire le sue preghiere di notte agli dei, perdendosi nei loro paradisi. Il guerriero potrà portare la sua spada affilata in nome dei &quot;buoni&quot; ma tu sai la verità."/>
+            <para PARENT="Flavor"/>
+            <para PARENT="Flavor"/>
+            <ITEXT FONT="DejaVu Serif Condensed Bold Italic" FONTSIZE="9" CH="Solo tu."/>
+            <para PARENT="Flavor"/>
+            <para PARENT="Flavor"/>
+            <ITEXT FONTSIZE="8" CH="Sei gli occhi, mani, e arma mortale degli dei. Tuo è il dono della santità e virtù. Della giustizia. Visioni, anche. Hai una purezza di intenti che i tuoi compagni non hanno. Quindi guida questi sciocchi, paladino. Prendi la tua causa santa e porta la salvezza al mondo perduto. Vae victis, giusto?"/>
+            <trail PARENT="Flavor"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347324729146" YPOS="288.820157480315" WIDTH="254.255305192114" HEIGHT="56.179842519685" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 254.255 0 254.255 0 254.255 0 254.255 0 254.255 56.1798 254.255 56.1798 254.255 56.1798 254.255 56.1798 0 56.1798 0 56.1798 0 56.1798 0 56.1798 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 254.255 0 254.255 0 254.255 0 254.255 0 254.255 56.1798 254.255 56.1798 254.255 56.1798 254.255 56.1798 0 56.1798 0 56.1798 0 56.1798 0 56.1798 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Razza"/>
+            <para PARENT="Intestazioni1"/>
+            <para PARENT="Intestazioni1"/>
+            <ITEXT CH="Sei solo umano. "/>
+            <ITEXT FONT="DejaVu Serif Condensed Bold" CH="Quando preghi per una indicazione, anche solo per un momento, e chiedi &quot;Dov'è il male?&quot;"/>
+            <ITEXT CH=" il GM te lo dirà onestamente."/>
+            <trail PARENT="Lista"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347324729146" YPOS="344.377199692144" WIDTH="254.255305192114" HEIGHT="64.372800307856" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 254.255 0 254.255 0 254.255 0 254.255 0 254.255 64.3728 254.255 64.3728 254.255 64.3728 254.255 64.3728 0 64.3728 0 64.3728 0 64.3728 0 64.3728 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 254.255 0 254.255 0 254.255 0 254.255 0 254.255 64.3728 254.255 64.3728 254.255 64.3728 254.255 64.3728 0 64.3728 0 64.3728 0 64.3728 0 64.3728 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Allineamento"/>
+            <para PARENT="Intestazioni1"/>
+            <para/>
+            <ITEXT CH="O"/>
+            <tab/>
+            <ITEXT FONT="DejaVu Serif Condensed Italic" CH="Legale"/>
+            <ITEXT CH=": Nega pietà a un criminale o infedele"/>
+            <para PARENT="Lista"/>
+            <ITEXT CH="O"/>
+            <tab/>
+            <ITEXT FONT="DejaVu Serif Condensed Italic" CH="Buono"/>
+            <ITEXT CH=": Corri un pericolo per proteggere qualcuno di più debole di te."/>
+            <trail PARENT="Lista"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347324729146" YPOS="408.572688413948" WIDTH="254.255305192114" HEIGHT="134.427311586052" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 254.255 0 254.255 0 254.255 0 254.255 0 254.255 134.427 254.255 134.427 254.255 134.427 254.255 134.427 0 134.427 0 134.427 0 134.427 0 134.427 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 254.255 0 254.255 0 254.255 0 254.255 0 254.255 134.427 254.255 134.427 254.255 134.427 254.255 134.427 0 134.427 0 134.427 0 134.427 0 134.427 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Caratteristiche"/>
+            <para PARENT="Intestazioni1"/>
+            <ITEXT CH="distribuisci: 16,15,13,12,9,8"/>
+            <para ALIGN="1"/>
+            <ITEXT FONTSIZE="10" CH="Forza"/>
+            <tab FONTSIZE="10"/>
+            <ITEXT FONTSIZE="10" CH="___ ( ____ )"/>
+            <tab FONTSIZE="10"/>
+            <ITEXT FONTSIZE="10" CH="4-5"/>
+            <ITEXT CH=": -2"/>
+            <para PARENT="Caratteristiche"/>
+            <ITEXT FONTSIZE="10" CH="Destrezza"/>
+            <tab FONTSIZE="10"/>
+            <ITEXT FONTSIZE="10" CH="___ ( ____ )"/>
+            <tab/>
+            <ITEXT CH="6-8: -1"/>
+            <para PARENT="Caratteristiche"/>
+            <ITEXT FONTSIZE="10" CH="Costituzione"/>
+            <tab FONTSIZE="10"/>
+            <ITEXT FONTSIZE="10" CH="___ ( ____ )"/>
+            <tab/>
+            <ITEXT CH="9-12: 0"/>
+            <para PARENT="Caratteristiche"/>
+            <ITEXT FONTSIZE="10" CH="Intelligenza"/>
+            <tab FONTSIZE="10"/>
+            <ITEXT FONTSIZE="10" CH="___ ( ____ )"/>
+            <tab/>
+            <ITEXT CH="13-15: +1"/>
+            <para PARENT="Caratteristiche"/>
+            <ITEXT FONTSIZE="10" CH="Saggezza"/>
+            <tab FONTSIZE="10"/>
+            <ITEXT FONTSIZE="10" CH="___ ( ____ )"/>
+            <tab/>
+            <ITEXT CH="16-17: +2 "/>
+            <para PARENT="Caratteristiche"/>
+            <ITEXT FONTSIZE="10" CH="Carisma"/>
+            <tab FONTSIZE="10"/>
+            <ITEXT FONTSIZE="10" CH="___ ( ____ )"/>
+            <tab FONTSIZE="10"/>
+            <ITEXT FONTSIZE="10" CH="18: +3"/>
+            <para PARENT="Caratteristiche"/>
+            <ITEXT CH="Danno base: d10; PV: 10+Cos; Peso max: 12+ModFor"/>
+            <trail PARENT="Caratteristiche" ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="410.421940678468" YPOS="313.5" WIDTH="256.513492392399" HEIGHT="356.42525984252" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.513 0 256.513 0 256.513 0 256.513 0 256.513 356.425 256.513 356.425 256.513 356.425 256.513 356.425 0 356.425 0 356.425 0 356.425 0 356.425 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.513 0 256.513 0 256.513 0 256.513 0 256.513 356.425 256.513 356.425 256.513 356.425 256.513 356.425 0 356.425 0 356.425 0 356.425 0 356.425 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Mosse"/>
+            <para PARENT="Intestazioni1"/>
+            <ITEXT FONT="DejaVu Serif Condensed Bold" FONTSIZE="8" CH="IMPORRE LE MANI"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FONTSIZE="8" CH="Quando tocchi qualcuno pelle a pelle, e preghi perché stiano bene, tira +CAR. 10+:  Curi 1d8 di danni o rimuovi una malattia; 7-9: Curi 1d8 danni o rimuovi una malattia, ma il danno o la malattia è trasferita a te. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FONT="DejaVu Serif Condensed Bold" FONTSIZE="8" CH="CORAZZATO"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FONTSIZE="8" CH="Ignora l'etichetta "/>
+            <ITEXT FONT="DejaVu Serif Condensed Italic" FONTSIZE="8" CH="Impacciante"/>
+            <ITEXT FONTSIZE="8" CH=" delle armature."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FONT="DejaVu Serif Condensed Bold" FONTSIZE="8" CH="IO SONO LA LEGGE"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FONTSIZE="8" CH="Quando "/>
+            <ITEXT FONT="DejaVu Serif Condensed Bold" FONTSIZE="8" CH="dai un ordine a un NPC basato sulla tua autorità divina"/>
+            <ITEXT FONTSIZE="8" CH=", tira +CAR. 7+: Loro  scelgono uno fra:"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FONTSIZE="8" CH="O"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Fanno quello che chiedi"/>
+            <para PARENT="Lista"/>
+            <ITEXT FONTSIZE="8" CH="O"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Arretrano cautamente e poi fuggono"/>
+            <para PARENT="Lista"/>
+            <ITEXT FONTSIZE="8" CH="O"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Ti attaccano"/>
+            <para PARENT="Lista"/>
+            <ITEXT FONTSIZE="8" CH="10+: Hai inoltre un +1 contro di loro. 6-: Fanno quello che vogliono, e hai -1 contro di loro."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FONT="DejaVu Serif Condensed Bold" FONTSIZE="8" CH="MISSIONE"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FONTSIZE="8" CH="Quando"/>
+            <ITEXT FONT="DejaVu Serif Condensed Bold" FONTSIZE="8" CH=" ti consacri a una missione tramite preghiere e rituali sacri"/>
+            <ITEXT FONTSIZE="8" CH=", dichiara cosa hai  deciso di fare (scegli uno):"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FONTSIZE="8" CH="O"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Uccidere _________________, un grosso pericolo per la zona"/>
+            <para PARENT="Lista"/>
+            <ITEXT FONTSIZE="8" CH="O"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Difendere ________________ dalle iniquità che lo perseguono"/>
+            <para PARENT="Lista"/>
+            <ITEXT FONTSIZE="8" CH="O"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Scoprire la verità su _____________________"/>
+            <para PARENT="Lista"/>
+            <ITEXT FONTSIZE="8" CH="Quindi scegli due doni (scegli due):"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FONTSIZE="8" CH="O"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Un perfetto senso di dove sia ___________    "/>
+            <para PARENT="Lista"/>
+            <ITEXT FONTSIZE="8" CH="O"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Sensi che percepiscono le bugie"/>
+            <para PARENT="Lista"/>
+            <ITEXT FONTSIZE="8" CH="O"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Invulnerabile a _________________________    "/>
+            <para PARENT="Lista"/>
+            <ITEXT FONTSIZE="8" CH="O"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Una voce che trascende i linguaggi"/>
+            <para PARENT="Lista"/>
+            <ITEXT FONTSIZE="8" CH="O"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Un segno di autorità divina                           "/>
+            <para PARENT="Lista"/>
+            <ITEXT FONTSIZE="8" CH="O"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="La libertà da fame, sete e sonno"/>
+            <para PARENT="Lista"/>
+            <ITEXT FONTSIZE="8" CH="Il GM sceglierà quale voto o voti devi rispettare per avere la benedizione divina:"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FONTSIZE="8" CH="O"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Onore (proibito: tattiche scorrette e trucchi) "/>
+            <para PARENT="Lista"/>
+            <ITEXT FONTSIZE="8" CH="O"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Valore (probito: far vivere un malvagio)"/>
+            <para PARENT="Lista"/>
+            <ITEXT FONTSIZE="8" CH="O"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Moderazione (probito: indulgiare nei piaceri carnali)     "/>
+            <para PARENT="Lista"/>
+            <ITEXT FONTSIZE="8" CH="O"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Verità (probito: mentire)"/>
+            <para PARENT="Lista"/>
+            <ITEXT FONTSIZE="8" CH="O"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Pietà (richiesto: osservanza dei precetti)        "/>
+            <para PARENT="Lista"/>
+            <ITEXT FONTSIZE="8" CH="O"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Carità (richiesto: aiutare chi ha necessità)"/>
+            <trail PARENT="Lista"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347324729146" YPOS="542.75" WIDTH="254.255305192114" HEIGHT="196.794566929135" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 254.255 0 254.255 0 254.255 0 254.255 0 254.255 196.795 254.255 196.795 254.255 196.795 254.255 196.795 0 196.795 0 196.795 0 196.795 0 196.795 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 254.255 0 254.255 0 254.255 0 254.255 0 254.255 196.795 254.255 196.795 254.255 196.795 254.255 196.795 0 196.795 0 196.795 0 196.795 0 196.795 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="11" CH="Equipaggiamento"/>
+            <para PARENT="Intestazioni1"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Arma (scegli una):"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="O"/>
+            <tab/>
+            <ITEXT CH="Alabarda (allungo, +1 danno, 2 mani, peso 2)"/>
+            <para PARENT="Lista"/>
+            <ITEXT CH="O"/>
+            <tab/>
+            <ITEXT CH="Spada lunga (corta dis., +1 danno, peso 1) e scudo (+1 Arm., peso 2)"/>
+            <para PARENT="Lista"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Scegli uno fra:"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="O"/>
+            <tab/>
+            <ITEXT CH="Kit da avventuriero (5 usi, peso 1)"/>
+            <para PARENT="Lista"/>
+            <ITEXT CH="O"/>
+            <tab/>
+            <ITEXT CH="Razioni da dungeon (5 usi, peso 1) e pozione di cura (peso 0)"/>
+            <para PARENT="Lista"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Inoltre hai sempre: razioni da dungeon (5 usi, peso 1), armatura a scaglie (Arm 2, peso 3), e il tuo simbolo sacro (peso 1). Descrivi quest'ultimo."/>
+            <trail PARENT="Default Paragraph Style"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="410.421940678468" YPOS="669.92525984252" WIDTH="256.513492392399" HEIGHT="104.092" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.513 0 256.513 0 256.513 0 256.513 0 256.513 104.092 256.513 104.092 256.513 104.092 256.513 104.092 0 104.092 0 104.092 0 104.092 0 104.092 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.513 0 256.513 0 256.513 0 256.513 0 256.513 104.092 256.513 104.092 256.513 104.092 256.513 104.092 0 104.092 0 104.092 0 104.092 0 104.092 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Legami"/>
+            <para PARENT="Intestazioni1"/>
+            <ITEXT CH="La condotta folle di _______________ mette in pericolo la sua stessa anima!"/>
+            <para PARENT="Relazioni"/>
+            <ITEXT CH="_______________ ha combattuto con me e mi fido di lui totalmente."/>
+            <para PARENT="Relazioni"/>
+            <ITEXT CH="Rispetto la fede di _______________ ma spero che un giorno veda la Verità."/>
+            <para PARENT="Relazioni"/>
+            <ITEXT CH="_______________ è un uomo esemplare, ho solo da imparare da lui."/>
+            <trail PARENT="Relazioni"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="410.421940678468" YPOS="774.01725984252" WIDTH="256.013492392399" HEIGHT="59.0273070866147" RADRECT="22.67703937" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" OpticalMargins="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="22.677 0 22.677 0 233.336 0 233.336 0 233.336 0 245.861 0 256.013 22.677 256.013 10.1529 256.013 22.677 256.013 22.677 256.013 36.3503 256.013 36.3503 256.013 36.3503 256.013 48.8745 233.336 59.0273 245.861 59.0273 233.336 59.0273 233.336 59.0273 22.677 59.0273 22.677 59.0273 22.677 59.0273 10.1529 59.0273 0 36.3503 0 48.8745 0 36.3503 0 36.3503 0 22.677 0 22.677 0 22.677 0 10.1529 22.677 0 10.1529 0 " NUMCO="32" COCOOR="22.677 0 22.677 0 233.336 0 233.336 0 233.336 0 245.861 0 256.013 22.677 256.013 10.1529 256.013 22.677 256.013 22.677 256.013 36.3503 256.013 36.3503 256.013 36.3503 256.013 48.8745 233.336 59.0273 245.861 59.0273 233.336 59.0273 233.336 59.0273 22.677 59.0273 22.677 59.0273 22.677 59.0273 10.1529 59.0273 0 36.3503 0 48.8745 0 36.3503 0 36.3503 0 22.677 0 22.677 0 22.677 0 10.1529 22.677 0 10.1529 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para ALIGN="0" OpticalMargins="0"/>
+            <tab/>
+            <ITEXT CH="Punti Esperienza"/>
+            <tab/>
+            <ITEXT CH="____________"/>
+            <para ALIGN="0" OpticalMargins="0"/>
+            <para ALIGN="0" OpticalMargins="0"/>
+            <tab/>
+            <ITEXT CH="Livello               "/>
+            <tab/>
+            <ITEXT CH="____________"/>
+            <para ALIGN="0" OpticalMargins="0"/>
+            <para ALIGN="0" OpticalMargins="0"/>
+            <tab/>
+            <ITEXT CH="Punti Vita"/>
+            <tab/>
+            <ITEXT CH="___________ /  ___________"/>
+            <para ALIGN="0" OpticalMargins="0"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347086614173" YPOS="48.3477165354331" WIDTH="538.588346456693" HEIGHT="29.2096382689006" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="2.83464566929134" BEXTRA="2.83464566929134" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 29.2096 538.588 29.2096 538.588 29.2096 538.588 29.2096 0 29.2096 0 29.2096 0 29.2096 0 29.2096 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 29.2096 538.588 29.2096 538.588 29.2096 538.588 29.2096 0 29.2096 0 29.2096 0 29.2096 0 29.2096 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="DejaVu Serif Book" FONTSIZE="24" CH="Il Paladino"/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347086614173" YPOS="233.082706766917" WIDTH="254.255305192114" HEIGHT="56.2098916582799" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 254.255 0 254.255 0 254.255 0 254.255 0 254.255 56.2099 254.255 56.2099 254.255 56.2099 254.255 56.2099 0 56.2099 0 56.2099 0 56.2099 0 56.2099 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 254.255 0 254.255 0 254.255 0 254.255 0 254.255 56.2099 254.255 56.2099 254.255 56.2099 254.255 56.2099 0 56.2099 0 56.2099 0 56.2099 0 56.2099 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Nome"/>
+            <para PARENT="Intestazioni1"/>
+            <para/>
+            <para/>
+            <ITEXT CH="Thaddeus, Augustine, Lux, Cassius, Hadrian, Lucia, Octavia, Regulus, Valeria, Sanguinus, Titanius"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="411.173820377716" YPOS="233.082706766917" WIDTH="255.76161269315" HEIGHT="87.9699248120301" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.762 0 255.762 0 255.762 0 255.762 0 255.762 87.9699 255.762 87.9699 255.762 87.9699 255.762 87.9699 0 87.9699 0 87.9699 0 87.9699 0 87.9699 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.762 0 255.762 0 255.762 0 255.762 0 255.762 87.9699 255.762 87.9699 255.762 87.9699 255.762 87.9699 0 87.9699 0 87.9699 0 87.9699 0 87.9699 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Aspetto"/>
+            <para PARENT="Intestazioni1"/>
+            <ITEXT CH="scegli uno per lista"/>
+            <para PARENT="Default Paragraph Style" ALIGN="1"/>
+            <para PARENT="Default Paragraph Style" ALIGN="0"/>
+            <ITEXT CH="Occhi buoni, Occhi fieri o Occhi scintillanti"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Elmetto, Capelli ben pettinati o Calvo"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Simbolo sacro consumato o Simbolo sacro sgarciante"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Corpo atletico, Corpo massiccio o Corpo magro"/>
+            <trail PARENT="Default Paragraph Style"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
